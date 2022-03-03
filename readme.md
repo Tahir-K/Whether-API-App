@@ -1,4 +1,4 @@
-# Node API Proxy Server
+# Whether App
 
 Server used for hiding API keys, rate limiting and caching. This uses the [OpenWeather API](https://openweathermap.org/api) but you can easily change it to whatever public API you are using
 
@@ -30,5 +30,3 @@ You can add on any other query params as needed when hitting the /api endpoint s
 
 - Add new routes as you see fit
 - Change rate limiting and caching to desired values
-
-This project is from this [YouTube tutorial](https://youtu.be/ZGymN8aFsv4)
